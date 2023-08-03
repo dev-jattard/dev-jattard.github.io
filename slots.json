@@ -1,7 +1,34 @@
 {
+  "Ad Top": [
+    {
+      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateDBannerHex": "126e51",
+      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateUrl": "/go/bet365"
+    }
+  ]
+   "Ad Bottom": [
+    {
+      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateDBannerHex": "126e51",
+      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateUrl": "/go/bet365"
+    }
+  ]
+   "Ad iFrame": [
+    {
+      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateDBannerHex": "126e51",
+      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateUrl": "/go/bet365"
+    }
+  ]
   "SlotItems_1": [
     {
-      "slotTitle": "Starbursts",
+      "slotTitle": "Starburst",
       "slotImg": "/72x72/slot/starburst.png",
       "slotProvider": "NetEnt",
       "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
@@ -58,5 +85,5 @@
       "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs1024lionsd",
       "slotRating": "5"
     }
-  ]
+  ]  
 }
