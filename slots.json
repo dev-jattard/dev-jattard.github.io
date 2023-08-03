@@ -1,5 +1,5 @@
 {
-  "Ad Top": [
+  "AdTop": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
       "affiliateDBannerHex": "126e51",
@@ -8,7 +8,7 @@
       "affiliateUrl": "/go/bet365"
     }
   ]
-   "Ad Bottom": [
+   "AdBottom": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
       "affiliateDBannerHex": "126e51",
@@ -17,7 +17,7 @@
       "affiliateUrl": "/go/bet365"
     }
   ]
-   "Ad iFrame": [
+   "AdIframe": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
       "affiliateDBannerHex": "126e51",
