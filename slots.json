@@ -37,7 +37,7 @@
         "affiliateButtonTextHex": "340587"
       }
     ],
-    "SlotItems_1": [
+    "Slots": [
       {
         "slotTitle": "Starburst",
         "slotImg": "/72x72/slot/starburst.png",
@@ -65,9 +65,7 @@
         "slotProvider": "Red Tiger",
         "slotUrl": "https://gserver-rtg.redtiger.com/rtg/launcher/1942SkyWarrior",
         "slotRating": "5.0"
-      }
-    ],
-    "SlotItems_2": [
+      },
       {
         "slotTitle": "1 Reel Halloween",
         "slotImg": "/72x72/slot/1-reel-halloween.png",
