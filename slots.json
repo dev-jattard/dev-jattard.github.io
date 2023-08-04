@@ -46,28 +46,32 @@
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "NetEnt",
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0"
+            "slotRating": "5.0",
+            "tag": "New Games"
           },
           {
             "slotTitle": "12 Zodiacs",
             "slotImg": "/72x72/slot/12-zodiacs.png",
             "slotProvider": "Habanero",
             "slotUrl": "https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SG12Zodiacs&mode=fun&locale=en",
-            "slotRating": "4.5"
+            "slotRating": "4.5",
+            "tag": "New Games"
           },
           {
             "slotTitle": "15 Crystal Roses",
             "slotImg": "/72x72/slot/15-crystal-roses-a-tale-of-love.png",
             "slotProvider": "Play’n GO",
             "slotUrl": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=crystalroses&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
-            "slotRating": "4.3"
+            "slotRating": "4.3",
+            "tag": "New Games"
           },
           {
             "slotTitle": "1942 Sky Warrior",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
             "slotProvider": "Red Tiger",
             "slotUrl": "https://gserver-rtg.redtiger.com/rtg/launcher/1942SkyWarrior",
-            "slotRating": "5.0"
+            "slotRating": "5.0",
+            "tag": "New Games"
           }
         ]
       },
@@ -79,28 +83,32 @@
             "slotImg": "/72x72/slot/1-reel-halloween.png",
             "slotProvider": "Spinomenal",
             "slotUrl": "https://games.spinomenal.com/Play/Fun?gameCode=Tower_1ReelHalloween-CW&langCode=en_US&currencyCode=USD&gameToken=FUN_182F2ECD5C9425C33&platform=1&partnerId=SPIN-DEBUG&logo=SPIN&HomeUrl=https%3A%2F%2Fspinomenal.com",
-            "slotRating": "5.0"
+            "slotRating": "5.0",
+            "tag": "Top Games"
           },
           {
             "slotTitle": "Sakura Fortune II",
             "slotImg": "/72x72/slot/sakura-fortune-ii.png",
             "slotProvider": "QuickSpin",
             "slotUrl": "https://d2k3wptpwv4u4d.cloudfront.net/casino/quickspin/sakura2/index.html?gameid=sakura2&moneymode=fun&partnerid=quickspin",
-            "slotRating": "5.0"
+            "slotRating": "5.0",
+            "tag": "Top Games"
           },
           {
             "slotTitle": "300 Shields Mighty Ways",
             "slotImg": "/72x72/slot/300-shields-mighty-ways.png",
             "slotProvider": "Light & Wonder",
             "slotUrl": "https://nogs-gl-stage.nyxmalta.com/game/?clienttype=flash&nogscurrency=USD&nogsgameid=70732&nogslang=en_us&nogsmode=demo&nogsoperatorid=241",
-            "slotRating": "4.3"
+            "slotRating": "4.3",
+            "tag": "Top Games"
           },
           {
             "slotTitle": "5 Lions Dance",
             "slotImg": "/72x72/slot/5-lions-dance.png",
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs1024lionsd",
-            "slotRating": "5"
+            "slotRating": "5",
+            "tag": "Top Games"
           }
         ]
       }
