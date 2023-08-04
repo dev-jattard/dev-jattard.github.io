@@ -121,7 +121,7 @@
             "slotProvider": "NetEnt",
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
             "slotRating": "5.0",
-            "tag": "New Games"
+            "tag": "Promoted"
           },
           {
             "slotTitle": "12 Zodiacs",
@@ -129,7 +129,7 @@
             "slotProvider": "Habanero",
             "slotUrl": "https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SG12Zodiacs&mode=fun&locale=en",
             "slotRating": "4.5",
-            "tag": "New Games"
+            "tag": "Promoted"
           }
         ]
       }
