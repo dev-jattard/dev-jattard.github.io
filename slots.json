@@ -1,10 +1,46 @@
 {
-  "title": "SlotsFlick",
+  "title": "SlotsFlick App",
   "data": {
-    "categories": [
+    "Domain": "casinohawks.com",
+    "Ads": [
       {
-        "title": "New Games",
-        "slots": [
+        "affiliateBannerLogo": "/72x72/casino/playfrank.png",
+        "affiliateBannerOffer": "Get £100 in Bonuses and 50 Starburst Spins!",
+        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | Terms and conditions apply.",
+        "affiliateButtonText": "Visit Offer",
+        "affiliateUrl": "/go/playfrank",
+        "affiliateBannerBgHex": "ffffff",
+        "affiliateBannerTextHex": "015080",
+        "affiliateButtonBgHex": "015080",
+        "affiliateButtonTextHex": "ffffff"
+      },
+      {
+        "affiliateBannerLogo": "/72x72/casino/bzeebet.png",
+        "affiliateBannerOffer": "Up to £100 Welcome Bonus + 100 Spins with Bzeebet!",
+        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | New Players Only. Min Dep £20. Offer: 100% of 1st deposit up to £100 + 100 Spins on Big Bass Bonanza. Spins expire after 23:59 GMT on day they are credited. Spins winnings credited as bonus, separate to Cash funds, & subject to 35x wagering of bonus + deposit amounts. Bonus funds expire after 21 days. Affordability checks apply. Terms Apply. | Terms and conditions apply.",
+        "affiliateButtonText": "Visit Offer",
+        "affiliateUrl": "/go/bzeebet",
+        "affiliateBannerBgHex": "022B39",
+        "affiliateBannerTextHex": "ffffff",
+        "affiliateButtonBgHex": "EF7227",
+        "affiliateButtonTextHex": "022B39"
+      },
+      {
+        "affiliateBannerLogo": "/72x72/casino/casumo.png",
+        "affiliateBannerOffer": "Deposit match up to £100 plus 20 Bonus Spins",
+        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | New UK Players only. Opt-in required. 20 Bonus Spins on 'Sahara Riches Cash Collect'. 100% Deposit Bonus up to £100 on first deposit. Min deposit £10. 30x wagering on Bonus Spins and Deposit Bonus. Game weighting applies. Max £5/spin or £0.50/line or £50/round (live casino). 30 days expiry. Applies only with bonus link. | Terms and conditions apply.",
+        "affiliateButtonText": "Visit Offer",
+        "affiliateUrl": "/go/casumo",
+        "affiliateBannerBgHex": "340587",
+        "affiliateBannerTextHex": "ffffff",
+        "affiliateButtonBgHex": "ffffff",
+        "affiliateButtonTextHex": "340587"
+      }
+    ],
+    "slots": [
+      {
+        "category": "New Games",
+        "data": [
           {
             "slotTitle": "Starburst",
             "slotImg": "/72x72/slot/starburst.png",
@@ -19,17 +55,30 @@
             "slotUrl": "https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SG12Zodiacs&mode=fun&locale=en",
             "slotRating": "4.5"
           },
-          // Add other slots for this category
-        ]
-      },
-      {
-        "title": "Popular Games",
-        "slots": [
+          {
+            "slotTitle": "15 Crystal Roses",
+            "slotImg": "/72x72/slot/15-crystal-roses-a-tale-of-love.png",
+            "slotProvider": "Play’n GO",
+            "slotUrl": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=crystalroses&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
+            "slotRating": "4.3"
+          },
           {
             "slotTitle": "1942 Sky Warrior",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
             "slotProvider": "Red Tiger",
             "slotUrl": "https://gserver-rtg.redtiger.com/rtg/launcher/1942SkyWarrior",
+            "slotRating": "5.0"
+          }
+        ]
+      },
+      {
+        "category": "Top Games",
+        "data": [
+          {
+            "slotTitle": "1 Reel Halloween",
+            "slotImg": "/72x72/slot/1-reel-halloween.png",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "https://games.spinomenal.com/Play/Fun?gameCode=Tower_1ReelHalloween-CW&langCode=en_US&currencyCode=USD&gameToken=FUN_182F2ECD5C9425C33&platform=1&partnerId=SPIN-DEBUG&logo=SPIN&HomeUrl=https%3A%2F%2Fspinomenal.com",
             "slotRating": "5.0"
           },
           {
@@ -39,113 +88,22 @@
             "slotUrl": "https://d2k3wptpwv4u4d.cloudfront.net/casino/quickspin/sakura2/index.html?gameid=sakura2&moneymode=fun&partnerid=quickspin",
             "slotRating": "5.0"
           },
-          // Add other slots for this category
+          {
+            "slotTitle": "300 Shields Mighty Ways",
+            "slotImg": "/72x72/slot/300-shields-mighty-ways.png",
+            "slotProvider": "Light & Wonder",
+            "slotUrl": "https://nogs-gl-stage.nyxmalta.com/game/?clienttype=flash&nogscurrency=USD&nogsgameid=70732&nogslang=en_us&nogsmode=demo&nogsoperatorid=241",
+            "slotRating": "4.3"
+          },
+          {
+            "slotTitle": "5 Lions Dance",
+            "slotImg": "/72x72/slot/5-lions-dance.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs1024lionsd",
+            "slotRating": "5"
+          }
         ]
-      },
-      // Add other main categories here
+      }
     ]
   }
-}
-
-
-
-
-{
-  "title": "SlotsFlick App",
-  "data": {
-    "Domain": "casinohawks.com",
-    "Ads": [
-      {
-        "affiliateBannerLogo": "/72x72/casino/playfrank.png",
-        "affiliateBannerOffer": "Get £100 in Bonuses and 50 Starburst Spins!",
-        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | Terms and conditions apply.",
-        "affiliateButtonText": "Visit Offer",
-        "affiliateUrl": "/go/playfrank:playfrank-welcome-bonus",
-        "affiliateBannerBgHex": "ffffff",
-        "affiliateBannerTextHex": "015080",
-        "affiliateButtonBgHex": "015080",
-        "affiliateButtonTextHex": "ffffff"
-      },
-      {
-        "affiliateBannerLogo": "/72x72/casino/bzeebet.png",
-        "affiliateBannerOffer": "Up to £100 Welcome Bonus + 100 Spins with Bzeebet!",
-        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | New Players Only. Min Dep £20. Offer: 100% of 1st deposit up to £100 + 100 Spins on Big Bass Bonanza. Spins expire after 23:59 GMT on day they are credited. Spins winnings credited as bonus, separate to Cash funds, & subject to 35x wagering of bonus + deposit amounts. Bonus funds expire after 21 days. Affordability checks apply. Terms Apply. | Terms and conditions apply.",
-        "affiliateButtonText": "Visit Offer",
-        "affiliateUrl": "/go/bzeebet:up-to-100-welcome-bonus-100-spins-with-bzeebet",
-        "affiliateBannerBgHex": "022B39",
-        "affiliateBannerTextHex": "ffffff",
-        "affiliateButtonBgHex": "EF7227",
-        "affiliateButtonTextHex": "022B39"
-      },
-      {
-        "affiliateBannerLogo": "/72x72/casino/casumo.png",
-        "affiliateBannerOffer": "Deposit match up to £100 plus 20 Bonus Spins",
-        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | New UK Players only. Opt-in required. 20 Bonus Spins on 'Sahara Riches Cash Collect'. 100% Deposit Bonus up to £100 on first deposit. Min deposit £10. 30x wagering on Bonus Spins and Deposit Bonus. Game weighting applies. Max £5/spin or £0.50/line or £50/round (live casino). 30 days expiry. Applies only with bonus link. | Terms and conditions apply.",
-        "affiliateButtonText": "Visit Offer",
-        "affiliateUrl": "/go/casumo:unlock-100-up-to-25-plus-50-bonus-spins-and-more-at-casumo-casino",
-        "affiliateBannerBgHex": "340587",
-        "affiliateBannerTextHex": "ffffff",
-        "affiliateButtonBgHex": "ffffff",
-        "affiliateButtonTextHex": "340587"
-      }
-    ],
-    "Slots": [
-      {
-        "slotTitle": "Starburst",
-        "slotImg": "/72x72/slot/starburst.png",
-        "slotProvider": "NetEnt",
-        "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
-        "slotRating": "5.0"
-      },
-      {
-        "slotTitle": "12 Zodiacs",
-        "slotImg": "/72x72/slot/12-zodiacs.png",
-        "slotProvider": "Habanero",
-        "slotUrl": "https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SG12Zodiacs&mode=fun&locale=en",
-        "slotRating": "4.5"
-      },
-      {
-        "slotTitle": "15 Crystal Roses",
-        "slotImg": "/72x72/slot/15-crystal-roses-a-tale-of-love.png",
-        "slotProvider": "Play’n GO",
-        "slotUrl": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=crystalroses&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://asccw.playngonetwork.com/&showpoweredby=True",
-        "slotRating": "4.3"
-      },
-      {
-        "slotTitle": "1942 Sky Warrior",
-        "slotImg": "/72x72/slot/1942-sky-warrior.png",
-        "slotProvider": "Red Tiger",
-        "slotUrl": "https://gserver-rtg.redtiger.com/rtg/launcher/1942SkyWarrior",
-        "slotRating": "5.0"
-      },
-      {
-        "slotTitle": "1 Reel Halloween",
-        "slotImg": "/72x72/slot/1-reel-halloween.png",
-        "slotProvider": "Spinomenal",
-        "slotUrl": "https://games.spinomenal.com/Play/Fun?gameCode=Tower_1ReelHalloween-CW&langCode=en_US&currencyCode=USD&gameToken=FUN_182F2ECD5C9425C33&platform=1&partnerId=SPIN-DEBUG&logo=SPIN&HomeUrl=https%3A%2F%2Fspinomenal.com",
-        "slotRating": "5.0"
-      },
-      {
-        "slotTitle": "Sakura Fortune II",
-        "slotImg": "/72x72/slot/sakura-fortune-ii.png",
-        "slotProvider": "QuickSpin",
-        "slotUrl": "https://d2k3wptpwv4u4d.cloudfront.net/casino/quickspin/sakura2/index.html?gameid=sakura2&moneymode=fun&partnerid=quickspin",
-        "slotRating": "5.0"
-      },
-      {
-        "slotTitle": "300 Shields Mighty Ways",
-        "slotImg": "/72x72/slot/300-shields-mighty-ways.png",
-        "slotProvider": "Light & Wonder",
-        "slotUrl": "https://nogs-gl-stage.nyxmalta.com/game/?clienttype=flash&nogscurrency=USD&nogsgameid=70732&nogslang=en_us&nogsmode=demo&nogsoperatorid=241",
-        "slotRating": "4.3"
-      },
-      {
-        "slotTitle": "5 Lions Dance",
-        "slotImg": "/72x72/slot/5-lions-dance.png",
-        "slotProvider": "Pragmatic Play",
-        "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs1024lionsd",
-        "slotRating": "5"
-      }
-    ]
-  }  
 }
