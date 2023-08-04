@@ -2,24 +2,30 @@
   "Domain": "casinohawks.com",
   "Ads": [
     {
-      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateDBannerHex": "126e51",
-      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateBannerHex": "126e51",
+      "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerHex": "126e51",
+      "affiliateButtonText": "/go/bet365"      
       "affiliateUrl": "/go/bet365"
     },
     {
-      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateDBannerHex": "126e51",
-      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateBannerHex": "126e51",
+      "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerHex": "126e51",
+      "affiliateButtonText": "/go/bet365"      
       "affiliateUrl": "/go/bet365"
     } ,
     {
-      "affiliateDBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateDBannerHex": "126e51",
-      "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerLogo": "/72x72/casino/bet365.png",
+      "affiliateBannerHex": "126e51",
+      "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
+      "affiliateBannerHex": "126e51",
+      "affiliateButtonText": "/go/bet365"      
       "affiliateUrl": "/go/bet365"
     }
   ],
