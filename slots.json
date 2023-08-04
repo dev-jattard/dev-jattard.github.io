@@ -10,7 +10,7 @@
       "affiliateBannerBgHex": "ffffff",
       "affiliateBannerTextHex": "015080",
       "affiliateButtonBgHex": "015080",
-      "affiliateButtonTextHex": "ffffff",
+      "affiliateButtonTextHex": "ffffff"
     },
     {
       "affiliateBannerLogo": "/72x72/casino/bzeebet.png",
@@ -21,7 +21,7 @@
       "affiliateBannerBgHex": "022B39",
       "affiliateBannerTextHex": "ffffff",
       "affiliateButtonBgHex": "EF7227",
-      "affiliateButtonTextHex": "022B39",
+      "affiliateButtonTextHex": "022B39"
     } ,
     {
       "affiliateBannerLogo": "/72x72/casino/casumo.png",
@@ -32,7 +32,7 @@
       "affiliateBannerBgHex": "340587",
       "affiliateBannerTextHex": "ffffff",
       "affiliateButtonBgHex": "ffffff",
-      "affiliateButtonTextHex": "340587",
+      "affiliateButtonTextHex": "340587"
     }
   ],
   "SlotItems_1": [
