@@ -9,7 +9,8 @@
       "affiliateUrl": "/go/bet365"
       "affiliateBannerBgHex": "126e51",
       "affiliateBannerTextHex": "ffffff",
-      "affiliateButtonHex": "ffeb3b",
+      "affiliateButtonBgHex": "ffeb3b",
+      "affiliateButtonTextHex": "000000",
     },
     {
       "affiliateBannerLogo": "/72x72/casino/bet365.png",
@@ -19,7 +20,8 @@
       "affiliateUrl": "/go/bet365"
       "affiliateBannerBgHex": "126e51",
       "affiliateBannerTextHex": "ffffff",
-      "affiliateButtonHex": "ffeb3b",
+      "affiliateButtonBgHex": "ffeb3b",
+      "affiliateButtonTextHex": "000000",
     } ,
     {
       "affiliateBannerLogo": "/72x72/casino/bet365.png",
@@ -29,7 +31,8 @@
       "affiliateUrl": "/go/bet365"
       "affiliateBannerBgHex": "126e51",
       "affiliateBannerTextHex": "ffffff",
-      "affiliateButtonHex": "ffeb3b",
+      "affiliateButtonBgHex": "ffeb3b",
+      "affiliateButtonTextHex": "000000",
     }
   ],
   "SlotItems_1": [
