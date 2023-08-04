@@ -1,23 +1,21 @@
 {
   "Domain": "casinohawks.com",
-  "AdTop": [
+  "Ads": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
       "affiliateDBannerHex": "126e51",
       "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
       "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
       "affiliateUrl": "/go/bet365"
-    }
-  ]
-   "AdBottom": [
+    },
+    "AdBottom": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
       "affiliateDBannerHex": "126e51",
       "affiliateDBannerOffer": "Bet up to €50 in bet credits for new customers",
       "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
       "affiliateUrl": "/go/bet365"
-    }
-  ]
+    } ,
    "AdIframe": [
     {
       "affiliateDBannerLogo": "/72x72/casino/bet365.png",
@@ -26,7 +24,7 @@
       "affiliateDBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
       "affiliateUrl": "/go/bet365"
     }
-  ]
+  ],
   "SlotItems_1": [
     {
       "slotTitle": "Starburst",
