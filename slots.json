@@ -3,30 +3,33 @@
   "Ads": [
     {
       "affiliateBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateBannerHex": "126e51",
       "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
-      "affiliateButtonHex": "ffeb3b",
-      "affiliateButtonText": "/go/bet365"      
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",    
+      "affiliateButtonText": "Join Now"      
       "affiliateUrl": "/go/bet365"
+      "affiliateBannerBgHex": "126e51",
+      "affiliateBannerTextHex": "ffffff",
+      "affiliateButtonHex": "ffeb3b",
     },
     {
       "affiliateBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateBannerHex": "126e51",
       "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
-      "affiliateButtonHex": "ffeb3b",
-      "affiliateButtonText": "/go/bet365"      
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",    
+      "affiliateButtonText": "Join Now"      
       "affiliateUrl": "/go/bet365"
+      "affiliateBannerBgHex": "126e51",
+      "affiliateBannerTextHex": "ffffff",
+      "affiliateButtonHex": "ffeb3b",
     } ,
     {
       "affiliateBannerLogo": "/72x72/casino/bet365.png",
-      "affiliateBannerHex": "126e51",
       "affiliateBannerOffer": "Bet up to €50 in bet credits for new customers",
-      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",
-      "affiliateButtonHex": "ffeb3b",
-      "affiliateButtonText": "/go/bet365"      
+      "affiliateBannerTerms": "T&Cs apply 18+ gamblingtherapy.org",    
+      "affiliateButtonText": "Join Now"      
       "affiliateUrl": "/go/bet365"
+      "affiliateBannerBgHex": "126e51",
+      "affiliateBannerTextHex": "ffffff",
+      "affiliateButtonHex": "ffeb3b",
     }
   ],
   "SlotItems_1": [
