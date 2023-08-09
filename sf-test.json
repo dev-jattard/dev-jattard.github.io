@@ -2,7 +2,7 @@
   "title": "SlotsFlick App",
   "data": {
     "Domain": "casinohawks.com",   
-    "Ads": [
+    "Ads": [ /*
      {
         "affiliateBannerLogo": "/72x72/casino/playfrank.png",
         "affiliateBannerOffer": "Get £100 in Bonuses and 50 Starburst Spins!",
@@ -73,7 +73,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           }
-        ]
+       */ ]
       },
       {
         "category": "Top Games",
