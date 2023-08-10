@@ -3,7 +3,6 @@
   "data": {
     "Domain": "casinohawks.com",   
     "Ads": [ 
-      /*
      {
         "affiliateBannerLogo": "/72x72/casino/playfrank.png",
         "affiliateBannerOffer": "Get £100 in Bonuses and 50 Starburst Spins!",
@@ -37,7 +36,6 @@
         "affiliateButtonBgHex": "ffffff",
         "affiliateButtonTextHex": "340587"
       } 
-     */
     ],
     "slots": [
       {
