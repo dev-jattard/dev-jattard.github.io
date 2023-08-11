@@ -132,6 +132,27 @@
             "tag": "Promoted"
           }
         ]
+      },
+       {
+        "category": "Mini Games",
+        "data": [
+          {
+            "slotTitle": "Starburst",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "NetEnt",
+            "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
+            "slotRating": "5.0",
+            "tag": "Mini Games"
+          },
+          {
+            "slotTitle": "12 Zodiacs",
+            "slotImg": "/72x72/slot/12-zodiacs.png",
+            "slotProvider": "Habanero",
+            "slotUrl": "https://app-test.insvr.com/games/?brandid=a9d542ac-c9bb-e311-93f6-80c16e0883f4&keyname=SG12Zodiacs&mode=fun&locale=en",
+            "slotRating": "4.5",
+            "tag": "Mini Games"
+          }
+        ]
       }
     ]
   }
