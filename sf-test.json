@@ -52,7 +52,7 @@
           {
             "slotTitle": "100 Joker Staxx",
             "slotImg": "/72x72/slot/12-zodiacs.png",
-            "slotProvider": "Habanero",
+            "slotProvider": "Playson",
             "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?key=TEST1100000&partner=playsonsite-prod&gameName=100_joker_staxx&lang=en&wl=pl_gate",
             "slotRating": "4.5",
             "tag": "New Games"
@@ -88,7 +88,7 @@
             "slotUrl": "https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=1023&theme=quickfiressl&usertype=5&sext1=demo&sext2=demo&csid=1867&serverid=1867&variant=MAL-Demo&gameid=agentjaneblondereturnsDesktop&ul=en",
             "slotRating": "5.0",
             "tag": "New Games"
-          }
+          }          
         ]
       },
       {
@@ -101,6 +101,102 @@
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
             "slotRating": "5.0",
             "tag": "Promoted"
+          },
+           {
+            "slotTitle": "Book of Dead",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Play n Go",
+            "slotUrl": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=bookofdead&gameId=310&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://showcase.playngo.com/&showpoweredby=True",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Gates of Olympus",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/demo-cheat/openGame.do?lang=en&amp;cur=USD&amp;websiteUrl=%2Fdemo-cheat%2FcasinoBand.jsp&amp;gameSymbol=vs20olympgate&amp;jurisdiction=99&amp;lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Elvis Frog in Vegas",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "BGAMING",
+            "slotUrl": "https://bgaming-network.com/games/ElvisFrog/FUN?play_token=9547f6f2-73e9-4389-8915-ca190f38c8af",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Book of Aztec",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Amatic",
+            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofaztec&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Burning Hot",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Amusnet",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_burning_hot&key=TEST1000&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Fire In The Hole Xbomb",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Nqo Limit City",
+            "slotUrl": "https://www.nolimitcity.com/affiliates/?game=FireInTheHole",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Book of Rampage",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "https://cdn-live.spinomenal.com/external_components/play2.html?partnerId=SPIN-DEBUG&gameToken=FUN_17E689ADCF33F93A0&gameCode=SlotMachine_BookOfRampage&langCode=en_US&platform=4&HomeUrl=https%3a%2f%2fgamelounge.com%2fen&configFile=config_default.json&isReal=false&srvUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi&gameConfigPath=SlotMachine_BookOfRampage.json&rgsUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi%2f&inter=0&environment=live",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Wild Swarm",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Push Gaming",
+            "slotUrl": "https://www.pushgaming.com/games/play/wild-swarm.html",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Money Train",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Relax Gaming",
+            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/relax/moneytrain/?moneymode=fun",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Wanted Dead or a Wild",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1067&channel=mobile&language=en&partner=stg&mode=demo&token=123",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Magic Spins",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Wazdan",
+            "slotUrl": "https://gamelaunch.wazdan.com/demo-demo/gamelauncher?lang=en&mode=demo&license=wazdan&game=407&lobbyUrl=aHR0cHM6Ly93YXpkYW4uY29tL2VuL2dhbWVzL2dhbWUvMTc3&platform=desktop",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Midas Golden Touch",
+            "slotImg": "/72x72/slot/starburst.png",
+            "slotProvider": "Thunderkick",
+            "slotUrl": "https://ext-qa-gameservice.thunderkick.com/gamelauncher/desktopLauncher/external-lobby?gameId=tk-s1-g22&container=container&operatorId=2",
+            "slotRating": "5.0",
+            "tag": "New Games"
           }
         ]
       }
