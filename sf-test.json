@@ -103,18 +103,10 @@
             "tag": "Promoted"
           },
            {
-            "slotTitle": "Book of Dead",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Play n Go",
-            "slotUrl": "https://asccw.playngonetwork.com/Casino/IframedView?pid=2&gid=bookofdead&gameId=310&lang=en_US&practice=1&channel=desktop&div=flashobject&width=100%25&height=100%25&user=&password=&ctx=&demo=2&brand=&lobby=&rccurrentsessiontime=0&rcintervaltime=0&rcaccounthistoryurl=&rccontinueurl=&rcexiturl=&rchistoryurlmode=&autoplaylimits=0&autoplayreset=0&callback=flashCallback&rcmga=&resourcelevel=0&hasjackpots=False&country=&pauseplay=&playlimit=&selftest=&sessiontime=&coreweburl=https://showcase.playngo.com/&showpoweredby=True",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          },
-           {
-            "slotTitle": "Gates of Olympus",
+            "slotTitle": "The Dog House",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/demo-cheat/openGame.do?lang=en&amp;cur=USD&amp;websiteUrl=%2Fdemo-cheat%2FcasinoBand.jsp&amp;gameSymbol=vs20olympgate&amp;jurisdiction=99&amp;lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
             "slotRating": "5.0",
             "tag": "New Games"
           },
