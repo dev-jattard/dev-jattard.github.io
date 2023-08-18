@@ -37,9 +37,9 @@
         "affiliateButtonTextHex": "340587"
       }
     ],
-   "slots": [
+    "slots": [
       {
-        "category": "New Games",
+        "categories": ["Promoted", "Promoted 2", "Promoted 3", "Promoted 4", "Promoted 5"],
         "data": [
           {
             "slotTitle": "1 Million Megaways BC",
@@ -57,43 +57,38 @@
             "slotRating": "4.5",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "243 Mexicana",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": " ",
+            "slotProvider": "",
             "slotUrl": "https://neosynotgamescontent.syngamtech.com/Games/Mexicana243/Desktop/HD/index.html?serverUrl=https%3A%2F%2Fneosynotgamesbe.syngamtech.com%2F&currency=EUR&ts=1656411163697&lang=en#token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiItMTY0Nzg1MSIsImp0aSI6IjYzNzkyMDA3OTYzNjMwMTE1MiIsIm5iZiI6MTY1NjQxMTE2MywiZXhwIjoxNjU2NDEyMzYzLCJpYXQiOjE2NTY0MTExNjMsImlzcyI6Ik5FT1NZTk9UR0FNRVMifQ.DcxH1hVdcdXjbfJ3bUyuMX6cKlQv29YcZaR5kBCy424",
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "3 Charms Crush",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": " ",
+            "slotProvider": "",
             "slotUrl": "https://game-launcher-lux.isoftbet.com/255/906340?lang=en&cur=EUR&mode=0&background=1",
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "4 Seasons",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": " ",
+            "slotProvider": "",
             "slotUrl": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=637",
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Agent Jane Blonde Returns",
             "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": " ",
+            "slotProvider": "",
             "slotUrl": "https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=1023&theme=quickfiressl&usertype=5&sext1=demo&sext2=demo&csid=1867&serverid=1867&variant=MAL-Demo&gameid=agentjaneblondereturnsDesktop&ul=en",
             "slotRating": "5.0",
             "tag": "New Games"
-          }          
-        ]
-      },
-      {
-        "category": "Promoted",
-        "data": [
+          },
           {
             "slotTitle": "Starburst",
             "slotImg": "/72x72/slot/starburst.png",
@@ -102,7 +97,7 @@
             "slotRating": "5.0",
             "tag": "Promoted"
           },
-           {
+          {
             "slotTitle": "The Dog House",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Pragmatic Play",
@@ -110,7 +105,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Elvis Frog in Vegas",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "BGAMING",
@@ -118,7 +113,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Book of Aztec",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Amatic",
@@ -126,7 +121,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Burning Hot",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Amusnet",
@@ -134,7 +129,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Fire In The Hole Xbomb",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Nqo Limit City",
@@ -142,7 +137,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Book of Rampage",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Spinomenal",
@@ -150,7 +145,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Wild Swarm",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Push Gaming",
@@ -158,7 +153,7 @@
             "slotRating": "5.0",
             "tag": "New Games"
           },
-           {
+          {
             "slotTitle": "Money Train",
             "slotImg": "/72x72/slot/starburst.png",
             "slotProvider": "Relax Gaming",
