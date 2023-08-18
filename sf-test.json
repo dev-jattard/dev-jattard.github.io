@@ -39,7 +39,7 @@
     ],
     "database": [
       {
-        "categories": ["New Games", "Promoted 2", "Promoted 3", "Promoted 4", "Promoted 5"],
+        "categories": ["Featured Slots", "Most Popular", "New Games"],
         "slots": [
           {
             "slotTitle": "1 Million Megaways BC",
@@ -55,7 +55,7 @@
             "slotProvider": "Playson",
             "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?key=TEST1100000&partner=playsonsite-prod&gameName=100_joker_staxx&lang=en&wl=pl_gate",
             "slotRating": "4.5",
-            "tag": "New Games"
+            "tag": "Featured Slots"
           },
           {
             "slotTitle": "243 Mexicana",
@@ -63,7 +63,7 @@
             "slotProvider": "",
             "slotUrl": "https://neosynotgamescontent.syngamtech.com/Games/Mexicana243/Desktop/HD/index.html?serverUrl=https%3A%2F%2Fneosynotgamesbe.syngamtech.com%2F&currency=EUR&ts=1656411163697&lang=en#token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiItMTY0Nzg1MSIsImp0aSI6IjYzNzkyMDA3OTYzNjMwMTE1MiIsIm5iZiI6MTY1NjQxMTE2MywiZXhwIjoxNjU2NDEyMzYzLCJpYXQiOjE2NTY0MTExNjMsImlzcyI6Ik5FT1NZTk9UR0FNRVMifQ.DcxH1hVdcdXjbfJ3bUyuMX6cKlQv29YcZaR5kBCy424",
             "slotRating": "5.0",
-            "tag": "New Games"
+            "tag": "Featured Slots"
           },
           {
             "slotTitle": "3 Charms Crush",
@@ -103,7 +103,7 @@
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
             "slotRating": "5.0",
-            "tag": "New Games"
+            "tag": "Most Popular"
           },
           {
             "slotTitle": "Elvis Frog in Vegas",
@@ -111,7 +111,7 @@
             "slotProvider": "BGAMING",
             "slotUrl": "https://bgaming-network.com/games/ElvisFrog/FUN?play_token=9547f6f2-73e9-4389-8915-ca190f38c8af",
             "slotRating": "5.0",
-            "tag": "New Games"
+            "tag": "Most Popular"
           },
           {
             "slotTitle": "Book of Aztec",
