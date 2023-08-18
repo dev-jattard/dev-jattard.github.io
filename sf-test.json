@@ -37,10 +37,10 @@
         "affiliateButtonTextHex": "340587"
       }
     ],
-    "slots": [
+    "database": [
       {
         "categories": ["Promoted", "Promoted 2", "Promoted 3", "Promoted 4", "Promoted 5"],
-        "data": [
+        "slots": [
           {
             "slotTitle": "1 Million Megaways BC",
             "slotImg": "/72x72/slot/starburst.png",
