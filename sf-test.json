@@ -42,146 +42,322 @@
         "categories": ["Featured Slots", "Most Popular", "New Games"],
         "slots": [
           {
-            "slotTitle": "1 Million Megaways BC",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://1x2uk.com/NYX/loadGameStaging.jsp?&gcm=true&currency=USD&lang=en&lobbyurl=&realitycheck_uk_elapsed=undefined&realitycheck_uk_limit=undefined&realitycheck_uk_proceed=undefined&realitycheck_uk_exit=undefined&realitycheck_uk_history=undefined&realitycheck_uk_autospin=undefined&realitycheck_mt_elapsed=undefined&realitycheck_mt_limit=undefined&elapsedtime=undefined&depositlimit_url=undefined&selfassessment_url=undefined&selfexclusion_url=undefined&jurisdiction=unk&acc_id=241%7CFree%3As51aqf519sv6sf5qtmjhdscduj9&gameID=7023&playmode=demo&site=241&siteID=241&&NYX_GCM_PARAMS=%2FNYX%2FloadGameStaging.jsp%3Fenvid%3Deur%26stage%3D1&NYX_GCM_ENV=stage",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          },
-          {
-            "slotTitle": "100 Joker Staxx",
-            "slotImg": "/72x72/slot/12-zodiacs.png",
-            "slotProvider": "Playson",
-            "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?key=TEST1100000&partner=playsonsite-prod&gameName=100_joker_staxx&lang=en&wl=pl_gate",
-            "slotRating": "4.5",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "243 Mexicana",
-            "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": "",
-            "slotUrl": "https://neosynotgamescontent.syngamtech.com/Games/Mexicana243/Desktop/HD/index.html?serverUrl=https%3A%2F%2Fneosynotgamesbe.syngamtech.com%2F&currency=EUR&ts=1656411163697&lang=en#token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiItMTY0Nzg1MSIsImp0aSI6IjYzNzkyMDA3OTYzNjMwMTE1MiIsIm5iZiI6MTY1NjQxMTE2MywiZXhwIjoxNjU2NDEyMzYzLCJpYXQiOjE2NTY0MTExNjMsImlzcyI6Ik5FT1NZTk9UR0FNRVMifQ.DcxH1hVdcdXjbfJ3bUyuMX6cKlQv29YcZaR5kBCy424",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "3 Charms Crush",
-            "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": "",
-            "slotUrl": "https://game-launcher-lux.isoftbet.com/255/906340?lang=en&cur=EUR&mode=0&background=1",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          },
-          {
-            "slotTitle": "4 Seasons",
-            "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": "",
-            "slotUrl": "https://democasino.betsoftgaming.com/cwguestlogin.do?bankId=675&CDN=AUTO&gameId=637",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          },
-          {
-            "slotTitle": "Agent Jane Blonde Returns",
-            "slotImg": "/72x72/slot/1942-sky-warrior.png",
-            "slotProvider": "",
-            "slotUrl": "https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=1023&theme=quickfiressl&usertype=5&sext1=demo&sext2=demo&csid=1867&serverid=1867&variant=MAL-Demo&gameid=agentjaneblondereturnsDesktop&ul=en",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          },
-          {
-            "slotTitle": "Starburst",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Promoted"
-          },
-          {
-            "slotTitle": "The Dog House",
-            "slotImg": "/72x72/slot/starburst.png",
+            "slotTitle": "Gates of Olympus",
+            "slotImg": "",
             "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
+            "slotUrl": "",
             "slotRating": "5.0",
-            "tag": "Most Popular"
+            "tag": "New Games"
+          },          
+           {
+            "slotTitle": "Gates of Olympus",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Gates of Olympus",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "The Dog House",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Sweet Bonanza",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Big Bass Bonanza",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Bigger Bass Bonanza",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "The Dog House Megaways",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Christmas Big Bass Bonanza",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
           },
           {
-            "slotTitle": "Lucky Lady Moon Megaways",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "BGAMING",
-            "slotUrl": "https://bgaming-network.com/play/LuckyLadyMoonMegaways/FUN?server=demo",
+            "slotTitle": "Wolf Gold",
+            "slotImg": "",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "",
             "slotRating": "5.0",
-            "tag": "Most Popular"
-          },
+            "tag": "New Games"
+          },  
           {
-            "slotTitle": "Book of Aztec",
-            "slotImg": "/72x72/slot/starburst.png",
+            "slotTitle": "Hot Fruits 100",
+            "slotImg": "",
             "slotProvider": "Amatic",
-            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofaztec&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          }, 
+           {
+            "slotTitle": "Allways Hot Fruits",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Book Of Aztec",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Lucky Joker 10",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Hot Fruits 27",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Lucky Joker 100",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Hottest Fruits 20",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Lady Pin-ups 100",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Hot Fruits 20",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Lucky Joker 5",
+            "slotImg": "",
+            "slotProvider": "Amatic",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Shining Crown",
-            "slotImg": "/72x72/slot/starburst.png",
+            "slotTitle": "Supreme Hot",
+            "slotImg": "",
             "slotProvider": "Amusnet",
-            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_shining_crown&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
-          {
-            "slotTitle": "Fire In The Hole Xbomb",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Nqo Limit City",
-            "slotUrl": "https://www.nolimitcity.com/affiliates/?game=FireInTheHole",
+           {
+            "slotTitle": "Burning Hot",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Ultimate Hot",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Shining Crown",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "20 Super Hot",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "27 Wins",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "Great 27",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "100 Super Hot",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "20 Burning Hot",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+           {
+            "slotTitle": "5 Burning Heart",
+            "slotImg": "",
+            "slotProvider": "Amusnet",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
             "slotTitle": "Book of Rampage",
-            "slotImg": "/72x72/slot/starburst.png",
+            "slotImg": "",
             "slotProvider": "Spinomenal",
-            "slotUrl": "https://cdn-live.spinomenal.com/external_components/play2.html?partnerId=SPIN-DEBUG&gameToken=FUN_17E689ADCF33F93A0&gameCode=SlotMachine_BookOfRampage&langCode=en_US&platform=4&HomeUrl=https%3a%2f%2fgamelounge.com%2fen&configFile=config_default.json&isReal=false&srvUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi&gameConfigPath=SlotMachine_BookOfRampage.json&rgsUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi%2f&inter=0&environment=live",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Wild Swarm",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Push Gaming",
-            "slotUrl": "https://www.pushgaming.com/games/play/wild-swarm.html",
+            "slotTitle": "PinUp Fortune",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Money Train",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Relax Gaming",
-            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/relax/moneytrain/?moneymode=fun",
+            "slotTitle": "Wild Santa",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Wanted Dead or a Wild",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Hacksaw Gaming",
-            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1067&channel=mobile&language=en&partner=stg&mode=demo&token=123",
+            "slotTitle": "Pinup Snegurochka",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Magic Spins",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Wazdan",
-            "slotUrl": "https://gamelaunch.wazdan.com/demo-demo/gamelauncher?lang=en&mode=demo&license=wazdan&game=407&lobbyUrl=aHR0cHM6Ly93YXpkYW4uY29tL2VuL2dhbWVzL2dhbWUvMTc3&platform=desktop",
+            "slotTitle": "Book Of Demi Gods II",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           },
           {
-            "slotTitle": "Midas Golden Touch",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "Thunderkick",
-            "slotUrl": "https://ext-qa-gameservice.thunderkick.com/gamelauncher/desktopLauncher/external-lobby?gameId=tk-s1-g22&container=container&operatorId=2",
+            "slotTitle": "Golden Piggy Bank",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "100 Lucky Fruits Spin’ O’ Wheel",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Snatch the Gold",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Book of Xmas",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
+            "slotRating": "5.0",
+            "tag": "New Games"
+          },
+          {
+            "slotTitle": "Lucky Jack Tut’s Treasures",
+            "slotImg": "",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "",
             "slotRating": "5.0",
             "tag": "New Games"
           }
