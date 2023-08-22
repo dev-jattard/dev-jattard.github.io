@@ -39,7 +39,7 @@
     ],
     "database": [
       {
-        "categories": ["New Games", "Best Slots", "Most Popular", "Featured Slots"],
+        "categories": ["Best Slots", "Most Popular", "Featured Slots"],
         "slots": [
           {
             "slotTitle": "Gates of Olympus",
@@ -256,62 +256,6 @@
             "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7331",
             "slotRating": "5.0",
             "tag": "Best Slots"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
-          }, 
-           {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "New Games"
           }
         ]
       }
