@@ -82,7 +82,7 @@
             "tag": "Featured Slots"
           },
            {
-            "slotTitle": "The Dog House Megaways",
+            "slotTitle": "TDG Megaways",
             "slotImg": "/72x72/slot/the-dog-house-megaways.png",
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vswaysdogs&gname=The%20Dog%20House%20Megaways&jurisdictionID=UK&mgckey=stylename@generic~SESSION@66c7c5fe-925c-40a9-b422-d57f0efc022c",
@@ -243,19 +243,19 @@
           }, 
            {
             "slotTitle": "Wild Warriors",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/wild-warriors.png",
             "slotProvider": "Playson",
             "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?gameName=wild_warriors&key=TEST5000&partner=playsonsite-prod",
             "slotRating": "4.2",
             "tag": "Featured Slots"
           }, 
            {
-            "slotTitle": "",
-            "slotImg": "",
-            "slotProvider": "",
-            "slotUrl": "",
+            "slotTitle": "Vikings Go Berzerk",
+            "slotImg": "/72x72/slot/vikings-go-berzerk.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7331",
             "slotRating": "5.0",
-            "tag": "New Games"
+            "tag": "Best Slots"
           }, 
            {
             "slotTitle": "",
