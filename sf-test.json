@@ -120,165 +120,45 @@
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayswildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
             "slotRating": "3.9",
             "tag": "Featured Slots"
-          }, 
-           {
-            "slotTitle": "Allways Hot Fruits",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
           },
            {
             "slotTitle": "Book Of Aztec",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/book-of-aztec.png",
             "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Lucky Joker 10",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Hot Fruits 27",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Lucky Joker 100",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Hottest Fruits 20",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Lady Pin-ups 100",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Hot Fruits 20",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Lucky Joker 5",
-            "slotImg": "",
-            "slotProvider": "Amatic",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Supreme Hot",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
+            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofaztec&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
+            "slotRating": "3.0",
             "tag": "Featured Slots"
           },
            {
             "slotTitle": "Burning Hot",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/burning-hot.png",
             "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Ultimate Hot",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_burning_hot&key=TEST1000&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "4.0",
             "tag": "Featured Slots"
           },
            {
             "slotTitle": "Shining Crown",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/shining-crown.png",
             "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "20 Super Hot",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "27 Wins",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_shining_crown&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "4.0",
             "tag": "Featured Slots"
           },
            {
             "slotTitle": "Great 27",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/great-27.png",
             "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "100 Super Hot",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "20 Burning Hot",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "5 Burning Heart",
-            "slotImg": "",
-            "slotProvider": "Amusnet",
-            "slotUrl": "",
-            "slotRating": "5.0",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_great_27&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "3.0",
             "tag": "Featured Slots"
           },
           {
             "slotTitle": "Book of Rampage",
-            "slotImg": "",
+            "slotImg": "/72x72/slot/book-of-rampage.png",
             "slotProvider": "Spinomenal",
-            "slotUrl": "",
-            "slotRating": "5.0",
+            "slotUrl": "https://cdn-live.spinomenal.com/external_components/play2.html?partnerId=SPIN-DEBUG&gameToken=FUN_17E689ADCF33F93A0&gameCode=SlotMachine_BookOfRampage&langCode=en_US&platform=4&HomeUrl=https%3a%2f%2fgamelounge.com%2fen&configFile=config_default.json&isReal=false&srvUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi&gameConfigPath=SlotMachine_BookOfRampage.json&rgsUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi%2f&inter=0&environment=live",
+            "slotRating": "4.5",
             "tag": "Featured Slots"
           },
           {
