@@ -40,70 +40,14 @@
     "database": [
       {
         "categories": ["Best Slots", "Most Popular", "Featured Slots"],
-        "slots": [
-          {
-            "slotTitle": "Gates of Olympus",
-            "slotImg": "/72x72/slot/gates-of-olympus.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/demo-cheat/openGame.do?lang=en&amp;cur=USD&amp;websiteUrl=%2Fdemo-cheat%2FcasinoBand.jsp&amp;gameSymbol=vs20olympgate&amp;jurisdiction=99&amp;lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
-            "slotRating": "4.2",
-            "tag": "Featured Slots"
-          },
-           {
+         "slots": [
+         {
             "slotTitle": "The Dog House",
             "slotImg": "/72x72/slot/the-dog-house.png",
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
             "slotRating": "4.5",
             "tag": "Most Popular"
-          },
-           {
-            "slotTitle": "Sweet Bonanza",
-            "slotImg": "/72x72/slot/sweet-bonanza.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "",
-            "slotRating": "4.5",
-            "tag": "Most Popular"
-          },
-           {
-            "slotTitle": "Big Bass Bonanza",
-            "slotImg": "/72x72/slot/big-bass-bonanza.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs10bbbonanza&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "Bigger Bass Bonanza",
-            "slotImg": "/72x72/slot/bigger-bass-bonanza.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs12bbb&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
-          },
-           {
-            "slotTitle": "TDG Megaways",
-            "slotImg": "/72x72/slot/the-dog-house-megaways.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vswaysdogs&gname=The%20Dog%20House%20Megaways&jurisdictionID=UK&mgckey=stylename@generic~SESSION@66c7c5fe-925c-40a9-b422-d57f0efc022c",
-            "slotRating": "4.5",
-            "tag": "Most Popular"
-          },
-           {
-            "slotTitle": "Christmas Big Bass Bonanza",
-            "slotImg": "/72x72/slot/christmas-big-bass-bonanza.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs10bxmasbnza&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
-            "slotRating": "3.3",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Wolf Gold",
-            "slotImg": "/72x72/slot/wolf-gold.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs25wolfgold&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
           },
            {
             "slotTitle": "Wild West Gold",
@@ -176,28 +120,12 @@
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
             "slotRating": "5.0",
             "tag": "Best Slots"
-          }, 
-          {
-            "slotTitle": "Starburst XXXtreme",
-            "slotImg": "/72x72/slot/starburst-xxxtreme.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburstxxxtreme_not_mobile&amp;currency=EUR&amp;language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          }, 
+          },
           {
             "slotTitle": "Dead or Alive 2",
             "slotImg": "/72x72/slot/dead-or-alive-2.png",
             "slotProvider": "NetEnt",
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=deadoralive2_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          }, 
-          {
-            "slotTitle": "Gonzo’s Quest",
-            "slotImg": "/72x72/slot/gonzos-quest.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=eldorado_not_mobile&currency=EUR&language=en",
             "slotRating": "5.0",
             "tag": "Best Slots"
           }, 
@@ -208,14 +136,6 @@
             "slotUrl": "https://games.netent.com/embed/game.html?gameId=piggyriches_not_mobile&currency=EUR&language=en",
             "slotRating": "5.0",
             "tag": "Best Slots"
-          }, 
-           {
-            "slotTitle": "Gods of Giza",
-            "slotImg": "/72x72/slot/gods-of-giza.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10gizagods&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
           }, 
            {
             "slotTitle": "Gates of Hades",
