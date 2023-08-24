@@ -3,6 +3,7 @@
   "data": {    
     "Domain": "casinohawks.com",
     "Admob": "true",
+    "InternalAds": "true",
     "Ads": [
       {
         "affiliateBannerLogo": "/72x72/casino/playfrank.png",
