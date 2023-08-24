@@ -2,7 +2,7 @@
   "title": "SlotsFlick App",
   "data": {    
     "Domain": "casinohawks.com",
-    "Admob": "true",
+    "AdMob": "true",
     "InternalAds": "true",
     "Ads": [
       {
