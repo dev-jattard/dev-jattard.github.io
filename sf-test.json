@@ -2,8 +2,8 @@
   "title": "SlotsFlick App",
   "data": {    
     "Domain": "casinohawks.com",
-    "AdMob":false,
-    "InternalAds":false,
+    "AdMob":true,
+    "InternalAds":true,
     "Ads": [
       {
         "affiliateBannerLogo": "/72x72/casino/playfrank.png",
