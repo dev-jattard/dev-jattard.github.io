@@ -15,28 +15,6 @@
         "affiliateBannerTextHex": "015080",
         "affiliateButtonBgHex": "015080",
         "affiliateButtonTextHex": "ffffff"
-      },
-      {
-        "affiliateBannerLogo": "/72x72/casino/bzeebet.png",
-        "affiliateBannerOffer": "Up to £100 Welcome Bonus + 100 Spins with Bzeebet!",
-        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | Terms and conditions apply.",
-        "affiliateButtonText": "Play for Real",
-        "affiliateUrl": "/go/bzeebet",
-        "affiliateBannerBgHex": "022B39",
-        "affiliateBannerTextHex": "ffffff",
-        "affiliateButtonBgHex": "EF7227",
-        "affiliateButtonTextHex": "022B39"
-      },
-      {
-        "affiliateBannerLogo": "/72x72/casino/casumo.png",
-        "affiliateBannerOffer": "Deposit match up to £100 plus 20 Bonus Spins",
-        "affiliateBannerTerms": "18+ | Play Responsibly | Begambleaware.org | Terms and conditions apply.",
-        "affiliateButtonText": "Play for Real",
-        "affiliateUrl": "/go/casumo",
-        "affiliateBannerBgHex": "340587",
-        "affiliateBannerTextHex": "ffffff",
-        "affiliateButtonBgHex": "ffffff",
-        "affiliateButtonTextHex": "340587"
       }
     ],
     "database": [
