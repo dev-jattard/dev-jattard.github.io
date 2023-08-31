@@ -19,6 +19,14 @@
             "tag": "Most Popular"
           },
           {
+            "slotTitle": "Age of Asgard",
+            "slotImg": "/72x72/slot/age-of-asgard.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7365",
+            "slotRating": "2.5",
+            "tag": "Featured Slots"
+          },
+          {
             "slotTitle": "Wild West Gold",
             "slotImg": "/72x72/slot/wild-west-gold.png",
             "slotProvider": "Pragmatic Play",
@@ -56,7 +64,7 @@
             "slotProvider": "Amusnet",
             "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_shining_crown&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
             "slotRating": "4.0",
-            "tag": "Featured Slots"
+            "tag": "Most Popular"
           },
           {
             "slotTitle": "Great 27",
