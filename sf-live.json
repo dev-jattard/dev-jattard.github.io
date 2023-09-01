@@ -11,6 +11,14 @@
         "categories": ["Best Slots", "Most Popular", "Featured Slots"],
         "slots": [
           {
+            "slotTitle": "Age of Asgard",
+            "slotImg": "/72x72/slot/age-of-asgard.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7365",
+            "slotRating": "2.5",
+            "tag": "Featured Slots"
+          },
+          {
             "slotTitle": "The Dog House",
             "slotImg": "/72x72/slot/the-dog-house.png",
             "slotProvider": "Pragmatic Play",
