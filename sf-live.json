@@ -91,30 +91,6 @@
             "tag": "Best Slots"
           },
           {
-            "slotTitle": "Starburst",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Dead or Alive 2",
-            "slotImg": "/72x72/slot/dead-or-alive-2.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=deadoralive2_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Piggy Riches",
-            "slotImg": "/72x72/slot/piggy-riches.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=piggyriches_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
             "slotTitle": "Gates of Hades",
             "slotImg": "/72x72/slot/gates-of-hades.png",
             "slotProvider": "Pragmatic Play",
