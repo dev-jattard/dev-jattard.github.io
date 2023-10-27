@@ -170,7 +170,244 @@
             "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7331",
             "slotRating": "5.0",
             "tag": "Best Slots"
-          }
+          },
+          
+          {
+            "slotTitle": "Age of Asgard",
+            "slotImg": "/72x72/slot/age-of-asgard.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7365",
+            "slotRating": "2.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Sweet Bonanza",
+            "slotImg": "/72x72/slot/sweet-bonanza.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=EUR&gameSymbol=vs20fruitsw&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&lobbyURL=https%3A%2F%2Fwww.pragmaticplay.com",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Wanted Dead or a Wild",
+            "slotImg": "/72x72/slot/wanted-dead-or-a-wild.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1067&channel=mobile&language=en&partner=stg&mode=demo&token=123",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },   
+	
+        {
+            "slotTitle": "Gates of Olympus",
+            "slotImg": "/72x72/slot/gates-of-olympus.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/demo-cheat/openGame.do?lang=en&amp;cur=USD&amp;websiteUrl=%2Fdemo-cheat%2FcasinoBand.jsp&amp;gameSymbol=vs20olympgate&amp;jurisdiction=99&amp;lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+
+	{
+            "slotTitle": "Sugar Rush",
+            "slotImg": "/72x72/slot/sugar-rush.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20sugarrush&gname=Sugar%20Rush&jurisdictionID=UK&mgckey=stylename@generic~SESSION@df3d570a-617a-4aba-8e90-20702cafd09a",
+            "slotRating": "4.5",
+            "tag": "Best Slots"
+          }, 
+
+	{
+            "slotTitle": "Money Train 2",
+            "slotImg": "/72x72/slot/money-train-2.png",
+            "slotProvider": "Relax",
+            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/relax/moneytrain2/?moneymode=fun",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          }, 
+	{
+            "slotTitle": "Fruit Party",
+            "slotImg": "/72x72/slot/fruit-party.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&gameSymbol=vs20fruitparty",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          }, 
+	{
+            "slotTitle": "RIP City",
+            "slotImg": "/72x72/slot/rip-City.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1233&lobby=https://www.gamelounge.com&channel=desktop&language=en&partner=stg&mode=demo&token=123",
+            "slotRating": "3",
+            "tag": "Featured Slots"
+          }, 
+	{
+            "slotTitle": "The Dog House",
+            "slotImg": "/72x72/slot/the-dog-house.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Hand Of Anubis",
+            "slotImg": "/72x72/slot/hand-of-anubis.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1164&channel=mobile&language=en&partner=stg&mode=demo&token=123",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Chaos Crew",
+            "slotImg": "/72x72/slot/chaos-crew.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-live.hacksawgaming.com/1059/1.26.0/index.html?language=en&channel=desktop&gameid=1059&mode=2&token=123131&lobbyurl=https%3A%2F%2Fwww.hacksawgaming.com&currency=EUR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api",
+            "slotRating": "3.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Wild Wild Bass 2",
+            "slotImg": "/72x72/slot/wild-wild-bass-2.png",
+            "slotProvider": "Stakelogic",
+            "slotUrl": "https://ngpd.st01-gs-stakelogic.com/demo/play?gameId=13030096",
+            "slotRating": "2",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "The Wildos",
+            "slotImg": "/72x72/slot/the-wildos.png",
+            "slotProvider": "Thunderkick",
+            "slotUrl": "https://nogs-gl-stage.nyxmalta.com/game/?clienttype=flash&nogscurrency=USD&nogsgameid=240133&nogslang=en_us&nogsmode=demo&nogsoperatorid=241",
+            "slotRating": "3.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Big Bass Splash",
+            "slotImg": "/72x72/slot/big-bass-splash.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10txbigbass&amp;websiteUrl=",
+            "slotRating": "4.5",
+            "tag": "Best Slots"
+          },
+	{
+            "slotTitle": "Floating Dragon Megaways",
+            "slotImg": "/72x72/slot/floating-dragon-megaways.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vswaysfltdrg&gname=Floating%20Dragon%20Hold%20&%20Spin%20Megaways&jurisdictionID=99&lobbyUrl=https%3A%2F%2Fclienthub.pragmaticplay.com%2Fslots%2Fgame-library%2F&mgckey=stylename@generic~SESSION@f1707965-083b-42e6-b537-f11aab45455a",
+            "slotRating": "4.5",
+            "tag": "Best Slots"
+          },
+	{
+            "slotTitle": "Book of Pharao",
+            "slotImg": "/72x72/slot/book-of-pharao.png",
+            "slotProvider": "Amatic",
+            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofpharao&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
+            "slotRating": "3",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Horror Hotel",
+            "slotImg": "/72x72/slot/horror-hotel.png",
+            "slotProvider": "Relax",
+            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html?channel=web&gameid=horrorhotel&moneymode=fun&jurisdiction=MT&partnerid=1",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Big Bad Bison",
+            "slotImg": "/72x72/slot/big-bad-bison.png",
+            "slotProvider": "Big Time Gaming",
+            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html?channel=web&moneymode=fun&jurisdiction=MT&gameid=bigbadbison",
+            "slotRating": "3.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Lucky Crew",
+            "slotImg": "/72x72/slot/lucky-crew.png",
+            "slotProvider": "BGAMING",
+            "slotUrl": "https://demo.bgaming-network.com/games/LuckyCrew/FUN?play_token=8c636a67-3550-4939-aa8c-758f3111b231",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Ice Heist",
+            "slotImg": "/72x72/slot/ice-heist.png",
+            "slotProvider": "IGT",
+            "slotUrl": "https://platform.rgsgames.com/skb/gateway?nscode=WHGA&technology=HTML&softwareid=200-1599-002&language=en&presenttype=STD&skincode=WG01&countrycode=NO&channel=INT&lobbyURL=&responsibleURL=&minbet=1.00&denomamount=1.00&currencycode=FPY",
+            "slotRating": "3.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Declaration of Spindependence",
+            "slotImg": "/72x72/slot/declaration-of-spindependence.png",
+            "slotProvider": "IGT",
+            "slotUrl": "https://ogs-gl-usnj.nyxop.net/game/?nogsoperatorid=107&nogsgameid=960991&nogsmode=demo&nogslang=en-EN,en;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6&nogscurrency=USD&clienttype=flash",
+            "slotRating": "4.5",
+            "tag": "Best Slots"
+          },
+	{
+            "slotTitle": "Razor Returns",
+            "slotImg": "/72x72/slot/declaration-of-spindependence.png",
+            "slotProvider": "Push Gaming",
+            "slotUrl": "https://player.eu.regulated.pushgaming.com/mesh/b2c/igp/em-rhino/launch?ccyCode=EUR&rgsCode=hive&mode=DEMO&lang=en&country=GB&jurisdiction=MT&rgsGameId=razorreturns-01",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Dragon Born Megaways",
+            "slotImg": "/72x72/slot/dragon-born-megaways.png",
+            "slotProvider": "Big Time Gaming",
+            "slotUrl": "https://dga1sy052ek6h.cloudfront.net/html5/wrapper3.html?token=Free%3Acik27qspa65ad7e7u21mit707t5%40241&language=&currency=EUR&type=nextgen&gamename=dragonborn&secure=true&mode=demo&lobbyurl=http%3A%2F%2Fdemo.nyxinteractive.com%3Fsession%3D&depositurl=&clienttype=flash&nyxroot=nogs-gdm-stage.nyxmalta.com/nextgen/&",
+            "slotRating": "2.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "True Kult",
+            "slotImg": "/72x72/slot/true-kult.png",
+            "slotProvider": "No Limit City",
+            "slotUrl": "https://production.nolimitcdn.com/loader/loader-desktop.html?operator=AFFILIATES&game=TrueKult&language=en",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Drop’em",
+            "slotImg": "/72x72/slot/drop-em.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-live.hacksawgaming.com/1314/1.13.0/index.html?language=en&channel=desktop&gameid=1314&mode=2&token=123131&lobbyurl=https%3A%2F%2Fwww.hacksawgaming.com&currency=EUR&partner=demo&env=https://rgs-demo.hacksawgaming.com/api&realmoneyenv=https://rgs-demo.hacksawgaming.com/api",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Torii Tumble",
+            "slotImg": "/72x72/slot/torii-tumble.png",
+            "slotProvider": "Relax",
+            "slotUrl": "https://d2drhksbtcqozo.cloudfront.net/casino/launcher.html?channel=web&moneymode=fun&jurisdiction=MT&gameid=toriitumble",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Rat King",
+            "slotImg": "/72x72/slot/rat-king.png",
+            "slotProvider": "Push Gaming",
+            "slotUrl": "https://player.eu.regulated.pushgaming.com/mesh/b2c/igp/lv-leovegas/launch?ccyCode=EUR&mode=DEMO&rgsCode=hive&rgsGameId=ratking-01&country=ROW&lang=en&accountUrl=&lobbyUrl=&jurisdiction=MT",
+            "slotRating": "4",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Fred’s Food Truck",
+            "slotImg": "/72x72/slot/freds-food-truck.png",
+            "slotProvider": "Hacksaw Gaming",
+            "slotUrl": "https://static-stg.hacksawgaming.com/launcher/static-launcher.html?gameid=1229&channel=desktop&language=en&partner=stg&mode=demo&token=123",
+            "slotRating": "3.5",
+            "tag": "Featured Slots"
+          },
+	{
+            "slotTitle": "Megaways Jack and The Magic Beans",
+            "slotImg": "/72x72/slot/megaways-jack-and-the-magic-beans.png",
+            "slotProvider": "Iron Dog Studio",
+            "slotUrl": "https://demo.1x2network.com/gecko/game/megawaysjackandthemagicbeans/index.html?acc_id=107&lang=en&gameID=8125&playMode=fun&jurisdiction=com&pathCDN=https%3A%2F%2Fwww.1x2-cloud-1.com%2Ff1x2games%2F&dev=true&path=https%3A%2F%2Fdemo.1x2network.com%2Ff1x2games%2F&clientName=1x2_dev&installID=null&site=1&folderName=megawaysjackandthemagicbeans&gameVersion=125&version=125&force=false&gameType=PREMIUMSLOTS&demo=ids",
+            "slotRating": "4.5",
+            "tag": "Best Slots"
+          },
+          
         ]
       }
     ]
