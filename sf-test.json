@@ -212,7 +212,7 @@
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vs20sugarrush&gname=Sugar%20Rush&jurisdictionID=UK&mgckey=stylename@generic~SESSION@df3d570a-617a-4aba-8e90-20702cafd09a",
             "slotRating": "4.5",
-            "tag": "Best Slots"
+            "tag": "Most Popular"
           }, 
 
 	{
@@ -285,7 +285,7 @@
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs10txbigbass&amp;websiteUrl=",
             "slotRating": "4.5",
-            "tag": "Best Slots"
+            "tag": "Most Popular"
           },
 	{
             "slotTitle": "Floating Dragon Megaways",
@@ -293,7 +293,7 @@
             "slotProvider": "Pragmatic Play",
             "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/html5Game.do?extGame=1&symbol=vswaysfltdrg&gname=Floating%20Dragon%20Hold%20&%20Spin%20Megaways&jurisdictionID=99&lobbyUrl=https%3A%2F%2Fclienthub.pragmaticplay.com%2Fslots%2Fgame-library%2F&mgckey=stylename@generic~SESSION@f1707965-083b-42e6-b537-f11aab45455a",
             "slotRating": "4.5",
-            "tag": "Best Slots"
+            "tag": "Most Popular"
           },
 	{
             "slotTitle": "Book of Pharao",
@@ -341,7 +341,7 @@
             "slotProvider": "IGT",
             "slotUrl": "https://ogs-gl-usnj.nyxop.net/game/?nogsoperatorid=107&nogsgameid=960991&nogsmode=demo&nogslang=en-EN,en;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6&nogscurrency=USD&clienttype=flash",
             "slotRating": "4.5",
-            "tag": "Best Slots"
+            "tag": "Most Popular"
           },
 	{
             "slotTitle": "Razor Returns",
@@ -405,9 +405,8 @@
             "slotProvider": "Iron Dog Studio",
             "slotUrl": "https://demo.1x2network.com/gecko/game/megawaysjackandthemagicbeans/index.html?acc_id=107&lang=en&gameID=8125&playMode=fun&jurisdiction=com&pathCDN=https%3A%2F%2Fwww.1x2-cloud-1.com%2Ff1x2games%2F&dev=true&path=https%3A%2F%2Fdemo.1x2network.com%2Ff1x2games%2F&clientName=1x2_dev&installID=null&site=1&folderName=megawaysjackandthemagicbeans&gameVersion=125&version=125&force=false&gameType=PREMIUMSLOTS&demo=ids",
             "slotRating": "4.5",
-            "tag": "Best Slots"
-          },
-          
+            "tag": "Most Popular"
+          }          
         ]
       }
     ]
