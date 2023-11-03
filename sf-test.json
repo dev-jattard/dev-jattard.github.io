@@ -2,7 +2,7 @@
   "title": "SlotsFlick App",
   "data": {
     "Domain": "casinohawks.com",
-    "AdMob":false,
+    "AdMob":true,
     "InternalAds":false,
     "Ads": [
       {
@@ -43,135 +43,7 @@
       {
         "categories": ["Latest Slots", "Featured Slots", "Best Slots", "Most Popular"],
         "slots": [
-          {
-            "slotTitle": "The Dog House",
-            "slotImg": "/72x72/slot/the-dog-house.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "4.5",
-            "tag": "Most Popular"
-          },
-          {
-            "slotTitle": "Wild West Gold",
-            "slotImg": "/72x72/slot/wild-west-gold.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs40wildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "3.3",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "WWG Megaways",
-            "slotImg": "/72x72/slot/wild-west-gold-megaways.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayswildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
-            "slotRating": "3.9",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Book Of Aztec",
-            "slotImg": "/72x72/slot/book-of-aztec.png",
-            "slotProvider": "Amatic",
-            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofaztec&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
-            "slotRating": "3.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Burning Hot",
-            "slotImg": "/72x72/slot/burning-hot.png",
-            "slotProvider": "Amusnet",
-            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_burning_hot&key=TEST1000&country=GB&demo=true&language=en&segment=desktop",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Shining Crown",
-            "slotImg": "/72x72/slot/shining-crown.png",
-            "slotProvider": "Amusnet",
-            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_shining_crown&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
-            "slotRating": "4.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Great 27",
-            "slotImg": "/72x72/slot/great-27.png",
-            "slotProvider": "Amusnet",
-            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_great_27&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
-            "slotRating": "3.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Book of Rampage",
-            "slotImg": "/72x72/slot/book-of-rampage.png",
-            "slotProvider": "Spinomenal",
-            "slotUrl": "https://cdn-live.spinomenal.com/external_components/play2.html?partnerId=SPIN-DEBUG&gameToken=FUN_17E689ADCF33F93A0&gameCode=SlotMachine_BookOfRampage&langCode=en_US&platform=4&HomeUrl=https%3a%2f%2fgamelounge.com%2fen&configFile=config_default.json&isReal=false&srvUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi&gameConfigPath=SlotMachine_BookOfRampage.json&rgsUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi%2f&inter=0&environment=live",
-            "slotRating": "4.5",
-            "tag": "Most Popular"
-          },
-          {
-            "slotTitle": "Immortal Romance",
-            "slotImg": "/72x72/slot/immortal-romance.png",
-            "slotProvider": "Microgaming",
-            "slotUrl": "https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&gameid=immortalromance&ul=en&variant=uat-demo&sext1=demo&sext2=demo&lobbyURL=http://www.microgaming.co.uk/games?searchterm=immor&pagesize=25&sortorder=Descending&sortfield=Release%20Date",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Starburst",
-            "slotImg": "/72x72/slot/starburst.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=starburst_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Dead or Alive 2",
-            "slotImg": "/72x72/slot/dead-or-alive-2.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=deadoralive2_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Piggy Riches",
-            "slotImg": "/72x72/slot/piggy-riches.png",
-            "slotProvider": "NetEnt",
-            "slotUrl": "https://games.netent.com/embed/game.html?gameId=piggyriches_not_mobile&currency=EUR&language=en",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },
-          {
-            "slotTitle": "Gates of Hades",
-            "slotImg": "/72x72/slot/gates-of-hades.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&websiteUrl=demogamesfree.pragmaticplay.net%26&gameSymbol=vs20ghades&jurisdiction=99&lobbyUrl=",
-            "slotRating": "3.0",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Wild West Duels",
-            "slotImg": "/72x72/slot/wild-west-duels.png",
-            "slotProvider": "Pragmatic Play",
-            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&websiteUrl=https%3A%2F%2Fclienthub.pragmaticplay.com%2F&gcpif=2273&gameSymbol=vs20pistols&jurisdiction=99&lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
-            "slotRating": "4.5",
-            "tag": "Most Popular"
-          },
-          {
-            "slotTitle": "Wild Warriors",
-            "slotImg": "/72x72/slot/wild-warriors.png",
-            "slotProvider": "Playson",
-            "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?gameName=wild_warriors&key=TEST5000&partner=playsonsite-prod",
-            "slotRating": "4.2",
-            "tag": "Featured Slots"
-          },
-          {
-            "slotTitle": "Vikings Go Berzerk",
-            "slotImg": "/72x72/slot/vikings-go-berzerk.png",
-            "slotProvider": "Yggdrasil",
-            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7331",
-            "slotRating": "5.0",
-            "tag": "Best Slots"
-          },          
-          {
+           {
             "slotTitle": "Age of Asgard",
             "slotImg": "/72x72/slot/age-of-asgard.png",
             "slotProvider": "Yggdrasil",
@@ -362,7 +234,119 @@
             "slotUrl": "https://demo.1x2network.com/gecko/game/megawaysjackandthemagicbeans/index.html?acc_id=107&lang=en&gameID=8125&playMode=fun&jurisdiction=com&pathCDN=https%3A%2F%2Fwww.1x2-cloud-1.com%2Ff1x2games%2F&dev=true&path=https%3A%2F%2Fdemo.1x2network.com%2Ff1x2games%2F&clientName=1x2_dev&installID=null&site=1&folderName=megawaysjackandthemagicbeans&gameVersion=125&version=125&force=false&gameType=PREMIUMSLOTS&demo=ids",
             "slotRating": "4.5",
             "tag": "Latest Slots"
-          }          
+          },
+          {
+            "slotTitle": "Age of Asgard",
+            "slotImg": "/72x72/slot/age-of-asgard.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7365",
+            "slotRating": "2.5",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "The Dog House",
+            "slotImg": "/72x72/slot/the-dog-house.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs20doghouse&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
+            "slotRating": "4.5",
+            "tag": "Most Popular"
+          },
+          {
+            "slotTitle": "Wild West Gold",
+            "slotImg": "/72x72/slot/wild-west-gold.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vs40wildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
+            "slotRating": "3.3",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "WWG Megaways",
+            "slotImg": "/72x72/slot/wild-west-gold-megaways.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?gameSymbol=vswayswildwest&websiteUrl=https%3A%2F%2Fdemogamesfree.pragmaticplay.net&jurisdiction=99&lobby_url=https%3A%2F%2Fwww.pragmaticplay.com%2Fen%2F&lang=EN&cur=USD",
+            "slotRating": "3.9",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Book Of Aztec",
+            "slotImg": "/72x72/slot/book-of-aztec.png",
+            "slotProvider": "Amatic",
+            "slotUrl": "https://cdn02.cdn.amatic.com/gmsl/amanet/game.html?game=bookofaztec&hash=&wallet=w13&currency=USD&config=14720&isFreeplay=true&language=en&exit=&type=desktop",
+            "slotRating": "3.0",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Burning Hot",
+            "slotImg": "/72x72/slot/burning-hot.png",
+            "slotProvider": "Amusnet",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_burning_hot&key=TEST1000&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "4.0",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Shining Crown",
+            "slotImg": "/72x72/slot/shining-crown.png",
+            "slotProvider": "Amusnet",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_shining_crown&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "4.0",
+            "tag": "Most Popular"
+          },
+          {
+            "slotTitle": "Great 27",
+            "slotImg": "/72x72/slot/great-27.png",
+            "slotProvider": "Amusnet",
+            "slotUrl": "https://modelplat.com/entry/cosmo-prod-eg?gameName=egt_great_27&key=GAMELOUNGE&country=GB&demo=true&language=en&segment=desktop",
+            "slotRating": "3.0",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Book of Rampage",
+            "slotImg": "/72x72/slot/book-of-rampage.png",
+            "slotProvider": "Spinomenal",
+            "slotUrl": "https://cdn-live.spinomenal.com/external_components/play2.html?partnerId=SPIN-DEBUG&gameToken=FUN_17E689ADCF33F93A0&gameCode=SlotMachine_BookOfRampage&langCode=en_US&platform=4&HomeUrl=https%3a%2f%2fgamelounge.com%2fen&configFile=config_default.json&isReal=false&srvUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi&gameConfigPath=SlotMachine_BookOfRampage.json&rgsUrl=https%3a%2f%2frgs-ld-demo.spinomenal.com%2fapi%2f&inter=0&environment=live",
+            "slotRating": "4.5",
+            "tag": "Most Popular"
+          },
+          {
+            "slotTitle": "Immortal Romance",
+            "slotImg": "/72x72/slot/immortal-romance.png",
+            "slotProvider": "Microgaming",
+            "slotUrl": "https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4023&serverid=22619&gameid=immortalromance&ul=en&variant=uat-demo&sext1=demo&sext2=demo&lobbyURL=http://www.microgaming.co.uk/games?searchterm=immor&pagesize=25&sortorder=Descending&sortfield=Release%20Date",
+            "slotRating": "5.0",
+            "tag": "Best Slots"
+          },
+          {
+            "slotTitle": "Gates of Hades",
+            "slotImg": "/72x72/slot/gates-of-hades.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&websiteUrl=demogamesfree.pragmaticplay.net%26&gameSymbol=vs20ghades&jurisdiction=99&lobbyUrl=",
+            "slotRating": "3.0",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Wild West Duels",
+            "slotImg": "/72x72/slot/wild-west-duels.png",
+            "slotProvider": "Pragmatic Play",
+            "slotUrl": "https://demogamesfree.pragmaticplay.net/gs2c/openGame.do?lang=en&cur=USD&websiteUrl=https%3A%2F%2Fclienthub.pragmaticplay.com%2F&gcpif=2273&gameSymbol=vs20pistols&jurisdiction=99&lobbyUrl=https://clienthub.pragmaticplay.com/slots/game-library/",
+            "slotRating": "4.5",
+            "tag": "Most Popular"
+          },
+          {
+            "slotTitle": "Wild Warriors",
+            "slotImg": "/72x72/slot/wild-warriors.png",
+            "slotProvider": "Playson",
+            "slotUrl": "https://playsonsite-dgm.ps-gamespace.com/launch?gameName=wild_warriors&key=TEST5000&partner=playsonsite-prod",
+            "slotRating": "4.2",
+            "tag": "Featured Slots"
+          },
+          {
+            "slotTitle": "Vikings Go Berzerk",
+            "slotImg": "/72x72/slot/vikings-go-berzerk.png",
+            "slotProvider": "Yggdrasil",
+            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7331",
+            "slotRating": "5.0",
+            "tag": "Best Slots"
+          }
         ]
       }
     ]
