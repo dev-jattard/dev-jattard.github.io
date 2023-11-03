@@ -42,15 +42,7 @@
     "database": [
       {
         "categories": ["Latest Slots", "Featured Slots", "Best Slots", "Most Popular"],
-        "slots": [
-           {
-            "slotTitle": "Age of Asgard",
-            "slotImg": "/72x72/slot/age-of-asgard.png",
-            "slotProvider": "Yggdrasil",
-            "slotUrl": "https://staticpff.yggdrasilgaming.com/init/launchClient.html?gameid=7365",
-            "slotRating": "2.5",
-            "tag": "Latest Slots"
-          },
+        "slots": [          
 	{
             "slotTitle": "Sweet Bonanza",
             "slotImg": "/72x72/slot/sweet-bonanza.png",
