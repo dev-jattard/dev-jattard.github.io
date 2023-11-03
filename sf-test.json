@@ -41,7 +41,7 @@
     ],
     "database": [
       {
-        "categories": ["Best Slots", "Most Popular", "Featured Slots"],
+        "categories": ["Featured Slots", "Best Slots", "Most Popular"],
         "slots": [
           {
             "slotTitle": "The Dog House",
